@@ -98,3 +98,10 @@ body{
 	color: #c2c2c2;
 	border:none;
 }
+
+.container_imagem {
+ 	max-width:450px;
+    max-height:350px;
+    width: auto;
+    height: auto;
+}
